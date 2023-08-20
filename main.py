@@ -8,4 +8,4 @@ class Point(metaclass=Meta):
         return (0,0)
 
 pt = Point(dasdasd,das,dsa,dsa,dsa)
-print(pt.Solid)
+print(pt.Solid)git
